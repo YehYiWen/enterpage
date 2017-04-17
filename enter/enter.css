@@ -1,0 +1,14 @@
+*{margin: 0px;}
+@font-face {
+    font-family: "SanFranciscoDisplay-Regular";
+    src: url(SanFranciscoDisplay-Regular.otf);
+}
+.container{width:320px;height:568px;
+  background-color: #231f20;text-align: center;position:relative;}
+h1{font-family: Quicksand;color: white;text-shadow: 1px 1px 0.5px rgba(0, 0, 0, 0.5);padding-top: 20%;width: 80%;text-align: center;margin: 0 auto;font-size:31px}
+.acc{margin-top: 26%}
+.ps{display: inline-block;}
+input{width:10%;margin:1%;outline: none;background-color: transparent;font-size: 16px;;border:none ;padding: 15px;padding-left: 0;font-family: SanFranciscoDisplay-Regular;border-bottom:  2px #f4511c solid}
+
+p{margin-top: 12%;font-family: SanFranciscoDisplay-Regular}
+a{text-decoration: none;color: #898989;;font-family: SanFranciscoDisplay-Regular;font-style: italic;}
